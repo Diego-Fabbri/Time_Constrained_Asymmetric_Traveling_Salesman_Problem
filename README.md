@@ -151,7 +151,3 @@ The script prints:
 - **Objective value** — the minimum makespan $t_{n+1}$
 - **$x[i]$ variables** — the visit time at each node (non-zero values only)
 - **$y[i,j]$ variables** — the active arcs in the optimal tour (non-zero values only)
-
-## License
-
-No license has been specified for this repository. Please contact the author before reusing this code for purposes beyond personal study or reference.
